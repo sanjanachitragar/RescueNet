@@ -2,6 +2,8 @@
 
 ## 🚀 Project Overview
 **ThermoRescue AI** is an innovative disaster response system that utilizes **thermal imaging** for real-time injury assessment and crowd monitoring in emergency scenarios. This project encompasses the entire development lifecycle, from problem identification to deployment.
+![image](https://github.com/user-attachments/assets/b2410f85-b401-4fb6-8321-6055ad5af97c)
+
 
 ## 🎯 Objectives
 - **Automate detection** of individuals in disaster zones.
